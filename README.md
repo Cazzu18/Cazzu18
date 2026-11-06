@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"  />
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -74,5 +74,9 @@
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Cazzu18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Cazzu18/Cazzu18/snake-output/snake.svg" alt="Snake animation" />
 
 ###
