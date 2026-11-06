@@ -76,7 +76,3 @@
 </div>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Cazzu18/Cazzu18/snake-output/snake.svg" alt="Snake animation" />
-
-###
